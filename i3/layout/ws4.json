@@ -1,0 +1,26 @@
+// vim:ts=4:sw=4:et
+{
+    "border": "normal",
+    "current_border_width": 2,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 510,
+       "width": 1916,
+       "x": 2,
+       "y": 18
+    },
+    "marks": [],
+    "name": "YouTube - Google Chrome",
+    "percent": 1,
+    "swallows": [
+       {
+        "class": "^Google\\-chrome$",
+        "instance": "^google\\-chrome$",
+        "machine": "^utilizador\\-VivoBook\\-ASUSLaptop\\-X532FLC\\-S532FL$",
+        "title": "^YouTube\\ \\-\\ Google\\ Chrome$",
+        "window_role": "^browser$"
+       }
+    ],
+    "type": "con"
+}
+
